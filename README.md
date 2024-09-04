@@ -50,6 +50,7 @@ Plots and interactions were integrated into a dashboard:
 - A pie chart displaying the total count of successful launches for all sites.
 - A slider to choose the payload range.
 - A scatter chart illustrating the correlation between payload and launch success.
+![Dashboard](https://github.com/ViaThanh/Project_IBM_SpaceX_DS/blob/a88234dc40c156f3962a86c8a963a2b8413fb3b2/Dash_Dashboard.png)
 
 ### Predictive Analytics
 - **Model:** Various classification algorithms, including Logistic Regression, SVM, Decision Tree Classifier, and KNN, were employed.
