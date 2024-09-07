@@ -1,7 +1,7 @@
 # IBM Data Science Capstone Project - SpaceX
 
 ## Summary
-This report evaluates machine learning models for predicting the landing success of SpaceX's Falcon 9 rocket. The process involves:
+This report evaluates analysis models for prepresent the landing success of SpaceX's Falcon 9 rocket. The process involves:
 - Data preprocessing, model training, and hyperparameter tuning.
 - Analyzing data from APIs and web sources using EDA, visualizations, and SQL.
 - Integrating insights into an interactive dashboard.
